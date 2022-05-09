@@ -16,9 +16,9 @@ The heat transfer problem for the case analyzed here can be described by the dif
 ![image](https://user-images.githubusercontent.com/103597508/167320841-4e3ad6a4-8bef-406f-b186-64dff6e7699b.png)
 
 Calculate:
-    - time required for the material to heat up to the final temperature (in hours),
+    -time required for the material to heat up to the final temperature (in hours),
     -total amount of heat consumed,
-and draw diagrams:
+    -and draw diagrams:
     -changes in temperature over time,
     -changes in heat consumption per unit of time for both cases.
 
